@@ -7,6 +7,7 @@ public class Add2Numbers {
 		int a=20;
 		int b=20;
 		int c=a+b;
+		int d=a*b;
 		System.out.println(c);
 		
 	}
